@@ -1,6 +1,12 @@
 # AI Client Assistant
+## 🚀 Features
 
-Мой первый проект на Python.
+- User input
+- VIP detection
+- Random message generation
+- Statistics calculation
+
+Simple Python application for user segmentation and personalized message generation
 
 ## Что делает программа
 
