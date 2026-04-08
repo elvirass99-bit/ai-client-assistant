@@ -15,7 +15,7 @@ Simple Python application for user segmentation and personalized message generat
 
 ---
 
-## 📌 Что делает программа
+## 🚀 Что делает программа
 
 - принимает имя пользователя  
 - принимает ID пользователя  
